@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>0</Id>
+    <Nume>PROMOTIE Nunta</Nume>
+    <CodIntern>430</CodIntern>
+    <Pret>24</Pret>
+    <Categorie>LEGALE</Categorie>
+    <Elemente>
+      <Element xsi:type="Produs">
+        <Id>0</Id>
+        <Nume>Fumigene</Nume>
+        <CodIntern>330245</CodIntern>
+        <Pret>20</Pret>
+        <Categorie>show</Categorie>
+        <Producator>Suedia</Producator>
+      </Element>
+      <Element xsi:type="Serviciu">
+        <Id>0</Id>
+        <Nume>Aprins fumigene</Nume>
+        <CodIntern>9878</CodIntern>
+        <Pret>2</Pret>
+        <Categorie>Clienti</Categorie>
+      </Element>
+      <Element xsi:type="Serviciu">
+        <Id>0</Id>
+        <Nume>Curatat</Nume>
+        <CodIntern>420</CodIntern>
+        <Pret>2</Pret>
+        <Categorie>Clean</Categorie>
+      </Element>
+    </Elemente>
+    <CurrentProduse>1</CurrentProduse>
+    <CurrentServicii>2</CurrentServicii>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>1</Id>
+    <Nume>Instalare Gazon</Nume>
+    <CodIntern>69420</CodIntern>
+    <Pret>253</Pret>
+    <Categorie>Gradina</Categorie>
+    <Elemente>
+      <Element xsi:type="Produs">
+        <Id>1</Id>
+        <Nume>Sac gazon</Nume>
+        <CodIntern>763</CodIntern>
+        <Pret>23</Pret>
+        <Categorie>SACI</Categorie>
+        <Producator>Bucuroaia</Producator>
+      </Element>
+      <Element xsi:type="Serviciu">
+        <Id>1</Id>
+        <Nume>Transport</Nume>
+        <CodIntern>99</CodIntern>
+        <Pret>200</Pret>
+        <Categorie>TRANSPORT</Categorie>
+      </Element>
+      <Element xsi:type="Serviciu">
+        <Id>1</Id>
+        <Nume>Semanat gazon</Nume>
+        <CodIntern>04111</CodIntern>
+        <Pret>30</Pret>
+        <Categorie>SEMANAT</Categorie>
+      </Element>
+    </Elemente>
+    <CurrentProduse>1</CurrentProduse>
+    <CurrentServicii>2</CurrentServicii>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract1>
